@@ -37,6 +37,10 @@
         - i3
         - sway
         - hyprland
+- Security considerations
+    - secure boot
+    - encryption
+    - boot toolchain considerations
 
 ## Installation
 - networking
@@ -52,15 +56,35 @@
     - editor (vim, nano, nvim, micro, eMaCs)
     - DON'T FORGET NETWORKING (probably NetworkManager)
 - genfstab
-- 
+- boot toolchain
 
 ## Post-Installation
 - what we have
+    - kernel
+    - coreutils
+    - init system
+    - userspace
+    - that's it
 - what we don't
+    - users
+        - sudo
+    - applications
+    - Desktop Environment
+    - AUR
 - what now?
+- make a user
+    - install sudo
+    - add user to sudoers somehow
+    - other required groups
 - DE
     - graphics drivers
     - base DE package
     - audio
+    - gui apps
+- Security
 
 ## Ricing
+- the term
+- Hyprland
+- themes
+ 
