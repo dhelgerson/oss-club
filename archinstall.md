@@ -23,7 +23,7 @@
 - choosing a disk layout
     - ext/xfs
     - "bUt wHaT aBoUt ZFS!?!
-        - what about zfs' baby brother
+    - what about zfs' baby brother
 - choosing a boot toolchain
 - choosing an environment
     - FULL DE's
