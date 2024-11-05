@@ -29,6 +29,7 @@ cout << "" << endl;
 cout << "Join Us for a live ArchLinux Installation Workshop" << endl; 
 cout << "" << endl; 
 cout << "	- Wednesday November 6th, 2024" << endl; 
+cout << "	- Butler Hall, Room 100" << endl; 
 cout << "	- Live Arch Linux Installation" << endl; 
 cout << "	- Overview of Storage schemes and window managers" << endl; 
 cout << "	- Free Pizza" << endl; 
